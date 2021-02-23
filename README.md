@@ -1,7 +1,7 @@
-### Tudo certo? Viajante!
+## Tudo certo? Viajante!
 
 ## Você que por acaso esbarrou no meu perfil, logo abaixo uma longa descrição sobre o meu perfil!
-# Vamos nessa?
+### Vamos nessa?
 
 <!--
 **azevgabriel/azevgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
