@@ -1,4 +1,4 @@
-## Você que esbarrou no meu perfil, ⬇ aqui ⬇ uma longa descrição sobre o meu perfil! Vamos nessa?
+## Você que esbarrou no meu perfil, aqui uma pequena descrição sobre o meu perfil! Vamos nessa? ⇣
 
 - 🔭 Atualmente eu nâo estou trabalhando em nenhuma empresa! Porém minha faculdade está quase no final e já estou a procura de um estágio!
 - 🌱 Atualmente estou estudando o React.JS e reforcançando meus aprendizados de HTML, CSS e JavaScript
