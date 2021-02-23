@@ -12,7 +12,6 @@
 - 📫 Meu e-mail para contato é azevgabriel@gmail.com . 
 - ⚡ Um fato engraçado é que eu danço breaking ♫ e gosto de jogar Xadrez ♞!
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 ### Muito obrigado por ler até aqui! :pray:
 
