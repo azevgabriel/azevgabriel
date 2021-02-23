@@ -1,19 +1,10 @@
-## Tudo certo? Viajante!
+## Você que esbarrou no meu perfil, ⬇ aqui ⬇ uma longa descrição sobre o meu perfil! Vamos nessa?
 
-## Você que por acaso esbarrou no meu perfil, logo abaixo uma longa descrição sobre o meu perfil!
-### Vamos nessa?
+- 🔭 Atualmente eu nâo estou trabalhando em nenhuma empresa! Porém minha faculdade está quase no final e já estou a procura de um estágio!
+- 🌱 Atualmente estou estudando o React.JS e reforcançando meus aprendizados de HTML, CSS e JavaScript
+- 👯 Nos dias atuais, estou em uma semana <nlw/> apresentado pela Rocketseat! 
+- 🤔 Estou precisando de ajuda em React.JS e Node.JS
+- 💬 Pergunte para mim sobre HTML, CSS e JS que poderia te ajudar!
+- 📫 e-mail: azevgabriel@gmail.com 
+- ⚡ Um fato engraçado é que eu danço breaking! Uma modalidade que hoje é adotada pelas Olímpiadas! Se não conhece essa dança, espero que através do meu perfil você possa conhecer um novo elemento de um cultura tão bonita!
 
-<!--
-**azevgabriel/azevgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
