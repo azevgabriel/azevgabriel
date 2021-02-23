@@ -1,4 +1,6 @@
-## Já que você esbarrou no meu perfil, aqui vai uma pequena descrição sobre mim! Vamos nessa? ⇣
+# Gabriel Azevedo 👨‍💻
+
+## Olá pessoal 👋:sweat_smile:
 
 - 🔭 Sou estudante de Engenharia de Computação no IFSULDEMINAS Campus de Poços de Caldas!
 - ⌛ Atualmente eu não estou trabalhando em nenhuma empresa! Porém minha faculdade está quase no final. Então já estou a procura de um estágio!
@@ -10,5 +12,7 @@
 - 📫 Meu e-mail para contato é azevgabriel@gmail.com . 
 - ⚡ Um fato engraçado é que eu danço breaking ♫ e gosto de jogar Xadrez ♞!
 
-### Muito obrigado por ler até aqui!
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
+### Muito obrigado por ler até aqui! :pray:
 
