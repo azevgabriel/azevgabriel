@@ -1,4 +1,4 @@
-## Você que esbarrou no meu perfil, aqui uma pequena descrição sobre o meu perfil! Vamos nessa? ⇣
+## Já que você esbarrou no meu perfil, aqui uma pequena descrição sobre o meu perfil! Vamos nessa? ⇣
 
 - 🔭 Sou estudante de Engenharia de Computação no IFSULDEMINAS Campus de Poços de Caldas!
 - ⌛ Atualmente eu não estou trabalhando em nenhuma empresa! Porém minha faculdade está quase no final. Então já estou a procura de um estágio!
