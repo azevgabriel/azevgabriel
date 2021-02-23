@@ -10,9 +10,8 @@
 - ✔️ Sei um pouco de Assembly por causa das aulas de Microcontroladores! Posso ajudar nisso também;
 - ✨ Sobre mim: Sou estudante de computação, gosto muito de Circuitos Eletrônicos e estou em busca de desenvolvimento pessoal;
 - ⚡ Um fato engraçado é que eu danço breaking ♫ e gosto de jogar Xadrez ♞;
-
 - 📫 E-mail:azevgabriel@gmail.com;
-- [![Linkedin Badge](https://img.shields.io/badge/-Gabriel_Azevedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azevgabriel/)](https://www.linkedin.com/in/azevgabriel/) 
+
 ### Muito obrigado por ler até aqui! :pray:
 
 END
