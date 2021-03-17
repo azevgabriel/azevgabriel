@@ -2,7 +2,7 @@
 ORG 0x00
 ### Olá, meu nome é 👨‍💻 Gabriel, e... 
 
-- 🌱 Estou estudando o React.JS e reforçando meus aprendizados de HTML, CSS e JavaScript.
+- 🌱 Estou estudando o ReactJS e reforçando meus aprendizados de HTML, CSS e JavaScript.
 - 👯 Nos dias atuais, busco colaborar com projetos em Front-end e futuramente Back-end!
 - 💬 Caso pergunte para mim sobre HTML, CSS e JS provavelmente saberei te ajudar!
 - ✔️ Sei sobre Assembly, por causa das aulas de Microcontroladores!
