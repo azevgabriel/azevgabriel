@@ -1,4 +1,3 @@
-## |🇧🇷 Olá, meu nome é 👨‍💻 Gabriel, e
 ```assembly
 ORG 0x00
 ```
