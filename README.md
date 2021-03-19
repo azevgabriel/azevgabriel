@@ -2,6 +2,7 @@
 ORG 0x00
 ```
 <p><em>Computer Engineering student at <a href="https://portal.pcs.ifsuldeminas.edu.br/">Instituto Federal Sul de Minas</a></em></p>
+<p><em>Member at <a href="http://aldeiaconsultoriajr.com/">Aldeia Consultoria Jr.</a></em></p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/azevgabriel)](https://github.com/azevgabriel)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azevgabriel/)](https://www.linkedin.com/in/azevgabriel/)
@@ -20,13 +21,7 @@ ORG 0x00
 |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azevgabriel&layout=compact)  |  <img src="./perso.png" width=200px/>  |
 |     :---:      |     :---:      |
 
-   
- 
-    
-
-
 ```assembly
 ;Muito obrigado por ler até aqui!
 END
 ```
-
