@@ -14,7 +14,13 @@ ORG 0x00
   - [x] JavaScript
 - 👯 Nos dias atuais, busco criar meus próprios projetos.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azevgabriel&layout=compact)](https://github.com/azevgabriel/github-readme-stats)
+|   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azevgabriel&layout=compact)  |  <img src="./perso.png" width=200px/>  |
+|     :---:      |     :---:      |
+
+   
+ 
+    
+
 
 ```assembly
 ;Muito obrigado por ler até aqui!
