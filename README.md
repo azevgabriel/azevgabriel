@@ -5,7 +5,9 @@ ORG 0x00
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/azevgabriel)](https://github.com/azevgabriel)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azevgabriel/)](https://www.linkedin.com/in/azevgabriel/)
-[![Linkedin Badge](https://img.shields.io/badge/-myCurriculum-blueviolet?style=flat-square&logo=Vercel&link=https://mycurriculum-azevgabriel.vercel.app/)](https://mycurriculum-azevgabriel.vercel.app/)
+[![Vercel Badge](https://img.shields.io/badge/-Vercel-blueviolet?style=flat-square&logo=Vercel&link=https://https://vercel.com/azevgabriel/)](https://vercel.com/azevgabriel/)
+
+[![Project Badge](https://img.shields.io/badge/-myCurriculum-blueviolet?style=flat-square&logo=Vercel&link=https://mycurriculum-azevgabriel.vercel.app/)](https://mycurriculum-azevgabriel.vercel.app/)
 
 - 🌱 Atualmente estou estudando ReactJS e Node.JS !
 - 💬 Caso pergunte para mim sobre as linguagens abaixo, provavelmente saberei te ajudar...
