@@ -10,18 +10,18 @@ ORG 0x00
 
 [![Project Badge](https://img.shields.io/badge/-myCurriculum-blueviolet?style=flat-square&logo=Vercel&link=https://mycurriculum-azevgabriel.vercel.app/)](https://mycurriculum-azevgabriel.vercel.app/)
 
-- 🌱 Atualmente estou estudando ReactJS e Node.JS !
-- 💬 Caso pergunte para mim sobre as linguagens abaixo, provavelmente saberei te ajudar...
+- 🌱 I'm currently studing ReactJS, Node.js and English !
+- 💬 If you ask me about the languages below, i'll probably know how to help you...
   - [x] Assembly
   - [x] HTML5
   - [x] CSS3
   - [x] JavaScript
-- 👯 Nos dias atuais, busco criar meus próprios projetos.
+- 👯 Nowadays, i try to create my own projects.
 
 |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azevgabriel&layout=compact)  |  <img src="./perso.png" width=200px/>  |
 |     :---:      |     :---:      |
 
 ```assembly
-;Muito obrigado por ler até aqui!
+;Thanks for reading!
 END
 ```
