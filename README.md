@@ -1,6 +1,8 @@
 ```assembly
 ORG 0x00
 ```
+<img align="right" width="50%" src="./perso.png"/>
+
 <p><em>Computer Engineering student at <a href="https://portal.pcs.ifsuldeminas.edu.br/">Instituto Federal Sul de Minas</a></br>Member at <a href="http://aldeiaconsultoriajr.com/">Aldeia Consultoria Jr.</a></em></p>
 
 
@@ -18,8 +20,8 @@ ORG 0x00
   - [x] JavaScript
 - 👯 Nowadays, i try to create my own projects.
 
-|   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azevgabriel&layout=compact)  |  <img src="./perso.png" width=200px/>  |
-|     :---:      |     :---:      |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azevgabriel&layout=compact)
+
 
 ```assembly
 ;Thanks for reading!
