@@ -15,6 +15,7 @@ ORG 0x00
   - [x] HTML5
   - [x] CSS3
   - [x] JavaScript
+  - [x] TypeScript
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azevgabriel&layout=compact)
 
