@@ -1,5 +1,5 @@
 <a href="https://mycurriculum-azevgabriel.vercel.app/">
-  <img align="right" width="40%" src="./perso.png"/>
+  <img align="right" width="41%" src="./perso.png"/>
 </a>
 <div align="center">
 
