@@ -1,4 +1,4 @@
-<div justify-content="center">
+<div style="display: flex;justify-content: center;">
 
 <img align="right" width="50%" src="./perso.png"/>
 
