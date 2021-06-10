@@ -1,7 +1,10 @@
+<img align="right" width="50%" src="./perso.png"/>
+
+<div align="center">
+
 ```assembly
 ORG 0x00
 ```
-<img align="right" width="50%" src="./perso.png"/>
 
 <p><em>Computer Engineering student at <a href="https://portal.pcs.ifsuldeminas.edu.br/">Instituto Federal Sul de Minas</a></br>Member & Project Manager at <a href="http://aldeiaconsultoriajr.com/">Aldeia Consultoria Jr.</a></em></p>
 
@@ -9,7 +12,7 @@ ORG 0x00
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azevgabriel/)](https://www.linkedin.com/in/azevgabriel/)
 [![Vercel Badge](https://img.shields.io/badge/-Vercel-blueviolet?style=flat-square&logo=Vercel&link=https://https://vercel.com/azevgabriel/)](https://vercel.com/azevgabriel/)
 
-- 🌱 I'm currently studing ReactJS, Node.js and English !
+🌱 I'm currently studing ReactJS, Node.js, React Native.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azevgabriel&layout=compact)
 
@@ -17,3 +20,4 @@ ORG 0x00
 ;Thanks for reading!
 END
 ```
+</div>
