@@ -1,7 +1,7 @@
 <div style="display: flex;justify-content: center;">
-
-<img align="right" width="50%" src="./perso.png"/>
-
+<a href="https://mycurriculum-azevgabriel.vercel.app/">
+  <img align="right" width="50%" src="./perso.png"/>
+</a>
 <div align="center">
 
 ```assembly
