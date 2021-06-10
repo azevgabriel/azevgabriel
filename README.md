@@ -1,4 +1,3 @@
-<div style="display: flex;justify-content: center;">
 <a href="https://mycurriculum-azevgabriel.vercel.app/">
   <img align="right" width="50%" src="./perso.png"/>
 </a>
@@ -23,4 +22,4 @@ ORG 0x00
 END
 ```
 </div>
-</div>
+
