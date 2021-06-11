@@ -7,7 +7,7 @@
 ORG 0x00
 ```
 
-<p><em>Computer Engineering student at <a href="https://portal.pcs.ifsuldeminas.edu.br/">Instituto Federal Sul de Minas</a></br>Member & Project Manager at <a href="http://aldeiaconsultoriajr.com/">Aldeia Consultoria Jr.</a></em></p>
+<p><em>Computer Engineering student at <a href="https://portal.pcs.ifsuldeminas.edu.br/">Instituto Federal Sul de Minas</a></br>Web Developer & Project Manager at <a href="http://aldeiaconsultoriajr.com/">Aldeia Consultoria Jr.</a></em></p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/azevgabriel)](https://github.com/azevgabriel)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azevgabriel/)](https://www.linkedin.com/in/azevgabriel/)
