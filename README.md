@@ -1,4 +1,4 @@
-<img align="right" width="40%" src="./perso.png"/>
+<img align="right" width="42%" src="./perso.png"/>
 
 <div>
 
@@ -14,8 +14,6 @@ ORG 0x00
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azevgabriel@gmail.com)](mailto:azevgabriel@gmail.com)
 
 </div>
-
-
 
  - 👾 My favorite stack is <strong>ReactJs</strong>!
  - 👨‍💻 I'm currently studing Node.js, React Native.
