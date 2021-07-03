@@ -1,6 +1,5 @@
-<a href="https://mycurriculum-azevgabriel.vercel.app/">
-  <img align="right" width="43%" src="./perso.png"/>
-</a>
+<img align="right" width="43%" src="./perso.png"/>
+
 <div align="center">
 
 ```assembly
