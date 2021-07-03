@@ -1,4 +1,4 @@
-<img align="right" width="43%" src="./perso.png"/>
+<img align="right" width="34%" src="./perso.png"/>
 
 <div align="center">
 
