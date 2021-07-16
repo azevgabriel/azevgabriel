@@ -1,5 +1,3 @@
-<img align="right" width="42%" src="./perso.png"/>
-
 <div>
 
 ```assembly
