@@ -2,7 +2,7 @@
 ORG 0x00
 ```
 	
-<img src="perso.png" align="left" width="32%"/>
+<img src="perso.png" align="left" width="37%"/>
  
 <div align="right">
 	
