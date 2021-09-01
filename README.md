@@ -1,6 +1,6 @@
-<img align="right" width="40%" src="van.gif"/>
+<img align="right" width="45%" src="van.gif"/>
 
-<div align="center" width="60%>
+<div align="center" width="55%>
                            
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/azevgabriel)](https://github.com/azevgabriel)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azevgabriel/)](https://www.linkedin.com/in/azevgabriel/)
