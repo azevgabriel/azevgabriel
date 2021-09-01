@@ -1,8 +1,7 @@
-<img align="right" width="50%" src="van.gif"/>
+<img align="right" width="40%" src="van.gif"/>
 
-<div align="center" width="50%>
-<p><em>Computer Engineering student at <a href="https://portal.pcs.ifsuldeminas.edu.br/">Instituto Federal Sul de Minas</a></br> ReactJS Developer Jr. at <a href="https://arecreativa.com.br/">A Recreativa</a></p>
-
+<div align="center" width="60%>
+                           
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/azevgabriel)](https://github.com/azevgabriel)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azevgabriel/)](https://www.linkedin.com/in/azevgabriel/)
 [![Vercel Badge](https://img.shields.io/badge/-Vercel-blueviolet?style=flat-square&logo=Vercel&link=https://https://vercel.com/azevgabriel/)](https://vercel.com/azevgabriel/)
