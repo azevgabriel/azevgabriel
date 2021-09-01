@@ -1,4 +1,4 @@
-<img align="left" width="50%" src="van.gif"/>
+<img align="right" width="50%" src="van.gif"/>
 
 <p><em>Computer Engineering student at <a href="https://portal.pcs.ifsuldeminas.edu.br/">Instituto Federal Sul de Minas</a></br> ReactJS Developer Jr. at <a href="https://arecreativa.com.br/">A Recreativa</a></p>
 
