@@ -7,7 +7,6 @@
 [![Vercel Badge](https://img.shields.io/badge/-Vercel-blueviolet?style=flat-square&logo=Vercel&link=https://https://vercel.com/azevgabriel/)](https://vercel.com/azevgabriel/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azevgabriel@gmail.com)](mailto:azevgabriel@gmail.com)
 
-![Snake animation](https://github.com/azevgabriel/azevgabriel/blob/output/github-contribution-grid-snake.svg)
 
 <h4>✅ My favorite languages & frameworks!</h4>
 <div style="display: inline_block">
