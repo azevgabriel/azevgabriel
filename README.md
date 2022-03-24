@@ -1,6 +1,6 @@
 <img align="right" height="450px" src="tanjiro-transition.gif"/>
 
-<div align="center" width="55%>
+<div align="center">
                            
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/azevgabriel)](https://github.com/azevgabriel)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azevgabriel/)](https://www.linkedin.com/in/azevgabriel/)
@@ -12,11 +12,11 @@
 
 <h4>Languages, frameworks and platforms of my daily life 🧑‍💻</h4>
 <div style="display: inline_block">
-<img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
-<img align="center" alt="ReactJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="AdonisJS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg">
-<img align="center" alt="NextJS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
-<img align="center" alt="ExpressJS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">                           <img align="center" alt="Heroku" height="40" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">     
-<img align="center" alt="Amazon" height="40" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">                                                                                                                
+<img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+<img align="center" alt="ReactJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" alt="AdonisJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg">
+<img align="center" alt="NextJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+<img align="center" alt="ExpressJS" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">                      <img align="center" alt="Heroku" height="40" width="50"  src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">     
+<img align="center" alt="Amazon" height="40" width="50"  src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">                                                                                                                
 </div>
 </div>
