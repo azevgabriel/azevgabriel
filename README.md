@@ -1,4 +1,4 @@
-<img align="right" height="520px" src="tanjiro-transition.gif"/>
+<img align="right" width=30% src="tanjiro-transition.gif"/>
 
 <div align="center">
 
