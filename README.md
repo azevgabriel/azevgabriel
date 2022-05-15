@@ -17,11 +17,11 @@
 <div style="display: inline_block">
 
 <img align="center" alt="TypeScript" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-<img align="center" alt="ReactJS" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 <img align="center" alt="Nodejs" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
-<img align="center" alt="AdonisJS" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/adonisjs/adonisjs-original.svg">
-<img align="center" alt="ExpressJS" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg">
-<img align="center" alt="Jest" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg">
+<img align="center" alt="ReactJS" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+<img align="center" alt="Expo" height="40" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_expo.svg">
+<img align="center" alt="Prisma" height="40" width="45" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/prisma.svg">
+<img align="center" alt="Jest" height="40" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_jest.svg">
 <img align="center" alt="Heroku" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">    
 <img align="center" alt="Amazon" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">                                                                                                             
 </div>
