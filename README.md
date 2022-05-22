@@ -1,8 +1,6 @@
-
-
 <div align="center">
  
- <img width=200 src="tanjiro-transition.gif"/>
+ <img width=200 src="tanjiro.gif"/>
 
  <p><em> Full Stack Developer at <a href="https://arecreativa.com.br/">A Recreativa 🦉</a></br>Computer Engineering student at <a href="https://portal.pcs.ifsuldeminas.edu.br/"> Instituto Federal Sul de Minas</a></p>
   
