@@ -1,9 +1,5 @@
  <div align="center" >
-  <p><em> Full Stack Developer at <a href="https://arecreativa.com.br/">A Recreativa 🦉</a></br>Computer Engineering student at <a href="https://portal.pcs.ifsuldeminas.edu.br/"> Instituto Federal Sul de Minas</a></p>
-<img  width=100% src="tanjiro.gif"/>
-
-
-
+ <p><em> Full Stack Developer at <a href="https://arecreativa.com.br/">A Recreativa 🦉</a></br>Computer Engineering student at <a href="https://portal.pcs.ifsuldeminas.edu.br/"> Instituto Federal Sul de Minas</a></p>
   
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/azevgabriel)](https://github.com/azevgabriel)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azevgabriel/)](https://www.linkedin.com/in/azevgabriel/)
@@ -11,9 +7,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azevgabriel@gmail.com)](mailto:azevgabriel@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="https://api.whatsapp.com/send?1=pt_BR&phone=5535988835605")](https://api.whatsapp.com/send?1=pt_BR&phone=5535988835605)
 ![](https://komarev.com/ghpvc/?username=azevgabriel&color=006bed)
-
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azevgabriel&layout=compact&langs_count=7"/>
-
+ 
+<img  width=100% src="tanjiro.gif"/>
 
 <h4>Languages, frameworks and platforms of my daily life 🧑‍💻</h4>
 <div style="display: inline_block">
