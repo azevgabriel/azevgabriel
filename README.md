@@ -10,7 +10,7 @@
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="https://api.whatsapp.com/send?1=pt_BR&phone=5535988835605")](https://api.whatsapp.com/send?1=pt_BR&phone=5535988835605)
 ![](https://komarev.com/ghpvc/?username=azevgabriel&color=006bed)
  
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12174670325&count=5)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12174670325&count=4)
 
 <h4>Languages, frameworks and platforms of my daily life 🧑‍💻</h4>
 <div style="display: inline_block">
