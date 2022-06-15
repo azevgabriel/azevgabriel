@@ -3,7 +3,6 @@
 <div align="center" >
 <p><em> Full Stack Developer at <a href="https://arecreativa.com.br/">A Recreativa 🦉</a></br>Computer Engineering student at <a href="https://portal.pcs.ifsuldeminas.edu.br/"> Instituto Federal Sul de Minas</a></p>
   
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/azevgabriel)](https://github.com/azevgabriel)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azevgabriel/)](https://www.linkedin.com/in/azevgabriel/)
 [![Vercel Badge](https://img.shields.io/badge/-Vercel-blueviolet?style=flat-square&logo=Vercel&link=https://https://vercel.com/azevgabriel/)](https://vercel.com/azevgabriel/)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="https://api.whatsapp.com/send?1=pt_BR&phone=5535988835605")](https://api.whatsapp.com/send?1=pt_BR&phone=5535988835605)
