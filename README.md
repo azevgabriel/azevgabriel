@@ -1,7 +1,7 @@
 <img align="right" width=33% src="tanjiro-transition.gif"/>
  
 <div align="center" >
-</br>Computer Engineering student at <a href="https://portal.pcs.ifsuldeminas.edu.br/"> Instituto Federal Sul de Minas</a></p>
+Computer Engineering student at <a href="https://portal.pcs.ifsuldeminas.edu.br/"> Instituto Federal Sul de Minas</a></p>
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azevgabriel/)](https://www.linkedin.com/in/azevgabriel/)
 [![Vercel Badge](https://img.shields.io/badge/-Vercel-blueviolet?style=flat-square&logo=Vercel&link=https://https://vercel.com/azevgabriel/)](https://vercel.com/azevgabriel/)
