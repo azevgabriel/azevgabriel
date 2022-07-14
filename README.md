@@ -1,4 +1,4 @@
-<img align="right" width=53% src="tanjiro-transition.gif"/>
+<img align="right" width=49% src="tanjiro-transition.gif"/>
  
 <div align="center" >
 Computer Engineering student at <a href="https://portal.pcs.ifsuldeminas.edu.br/"> Instituto Federal Sul de Minas</a></p>
