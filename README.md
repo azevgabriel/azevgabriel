@@ -1,4 +1,4 @@
-<img align="right" width="50%" src="jake.gif"/>
+<img align="right" width="100%" src="jake.gif"/>
  
 Computer Engineering student at [Instituto Federal Sul de Minas](https://portal.pcs.ifsuldeminas.edu.br/)
   
