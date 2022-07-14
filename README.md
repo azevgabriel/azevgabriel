@@ -1,4 +1,4 @@
-<img align="left" width="55%" src="jake.gif"/>
+<img align="left" width="50%" src="jake.gif"/>
  
 ### Hello!  🙏
  
