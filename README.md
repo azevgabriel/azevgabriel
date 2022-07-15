@@ -1,8 +1,10 @@
-<img align="right" width="50%" src="jake02.gif"/>
+<div align="center">
+
+<img  width="60%" src="jake02.gif"/>
  
 ### Hello!  🙏
  
-#### I"m Computer Engineering student at [Instituto Federal Sul de Minas](https://portal.pcs.ifsuldeminas.edu.br/) and work creating solutions in TypeScript and Python.
+#### I"m Computer Engineering student at [Instituto Federal Sul de Minas](https://portal.pcs.ifsuldeminas.edu.br/)<br> and work creating solutions in TypeScript and Python.
 
 #### Contact me through the links below
 
@@ -10,3 +12,5 @@
 [![Vercel Badge](https://img.shields.io/badge/-Vercel-blueviolet?style=flat-square&logo=Vercel&link=https://https://vercel.com/azevgabriel/)](https://vercel.com/azevgabriel/)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="https://api.whatsapp.com/send?1=pt_BR&phone=5535988835605")](https://api.whatsapp.com/send?1=pt_BR&phone=5535988835605)
 ![](https://komarev.com/ghpvc/?username=azevgabriel&color=006bed)
+
+</div>
