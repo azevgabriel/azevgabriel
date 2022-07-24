@@ -1,6 +1,6 @@
 <div align="center">
 
-<img  width="60%" src="jake02.gif"/>
+<img  width="40%" src="jake02.gif"/>
  
 ### Hello!  🙏
  
