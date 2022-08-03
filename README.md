@@ -6,7 +6,7 @@
  
 ### Hello!  🙏
  
-#### I"m Computer Engineering student at [Instituto Federal Sul de Minas](https://portal.pcs.ifsuldeminas.edu.br/)<br>, currently working for [TRACTAIN](https://tractian.com/) as a Full-Stack Developer, creating solutions in TypeScript and Node.js.
+#### I"m Computer Engineering student at [Instituto Federal Sul de Minas](https://portal.pcs.ifsuldeminas.edu.br/), currently working for [TRACTIAN](https://tractian.com/) as a Full-Stack Developer, creating solutions in TypeScript and Node.js.
 
 #### Contact me through the links below
 
