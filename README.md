@@ -1,5 +1,5 @@
 
-<img align="right" width=50% src="jake.gif"/>
+<img align="right" width=40% src="jake.gif"/>
 
 <div align="center" >
  
