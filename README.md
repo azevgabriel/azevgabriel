@@ -1,4 +1,4 @@
-<img align="right" width=38% src="jake.gif"/>
+<img align="right" width=38% src="mikasa.gif"/>
 
 <div align="center" >
  
