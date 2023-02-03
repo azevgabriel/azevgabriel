@@ -1,7 +1,7 @@
-<img align="right" width=28% src="mikasa.gif"/>
+<img align="right" width=29% src="https://user-images.githubusercontent.com/73303855/216623438-82b7da17-793a-4ff4-aee5-5b745350a12d.gif"/>
 
 <div align="center" >
- 
+
 I"m Computer Engineering student at [Instituto Federal Sul de Minas](https://portal.pcs.ifsuldeminas.edu.br/),<br> currently working for [TRACTIAN](https://tractian.com/) as a Full-Stack Developer
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azevgabriel/)](https://www.linkedin.com/in/azevgabriel/)
