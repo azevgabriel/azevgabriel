@@ -1,4 +1,4 @@
-<img align="right" width=24% src="jake.gif"/>
+<img align="right" width=26% src="jake.gif"/>
 
 <div align="left">  
   
