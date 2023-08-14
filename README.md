@@ -17,7 +17,5 @@
     <img align="center" alt="Prisma" height="40" width="45" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/prisma.svg">
     <img align="center" alt="Jest" height="40" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_jest.svg">
     <img align="center" alt="Amazon" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">   
-    <img align="center" alt="Divider" height="40" width="25" src="divider.svg">    
-    <img align="center" alt="Python" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">                     <img align="center" alt="Pandas" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
   </div>
 </div>
