@@ -1,11 +1,13 @@
-<img align="right" width=26% src="jake.gif"/>
+<img align="right" width=24% src="tanjiro-transition.gif"/>
 
 <div align="left">  
   
   ![](https://komarev.com/ghpvc/?username=azevgabriel&color=006bed)
-  <h4> Hello, welcome to my profile! </h4>
   
+  <h4> Hello, welcome to my profile! </h4>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azevgabriel&layout=compact&langs_count=6"/>
   <p>I am currently focused on projects related to inclusive education and finishing my final thesis. <br> My favorite tools and languages! 🧑‍</p>
+
   
   <div style="display: inline_block">
     <img align="center" alt="TypeScript" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
