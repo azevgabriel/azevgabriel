@@ -9,7 +9,6 @@ Greetings, my name is Gabriel. I am 24 years old, and for several years I have b
  `🌟 I seek inspiration from those who believe that the bug in the code is between the chair and the monitor 💻🪑`
   
 - ♟️ My rating on [chess.com](https://www.chess.com/member/azevgabriel) is `900-1000`;
-- 🎓📚 I am working on my [Final Year Project](https://github.com/azevgabriel/educacao_especial) every Saturday (starting at 1:00 PM) live streaming on [Twitch](https://www.twitch.tv/azevgabs);
 - 📍 I live in Poços de Caldas, Minas Gerais, Brazil.
 - 📧 Contact me at <a href="mailto:azevgabriel@gmail.com">Gmail</a>
 
@@ -17,7 +16,6 @@ Greetings, my name is Gabriel. I am 24 years old, and for several years I have b
 
 - 🖥️ I currently work at A Recreativa, performing end-to-end for all web applications.
 - 🎥 Recently, I launched my channel on [Twitch](https://www.twitch.tv/azevgabs); I am programming live and chatting.
-- 📖 I am finishing my [Final Year Project](https://github.com/azevgabriel/educacao_especial) on the live stream.
 
 **~** Favorite stacks: 💼
 
