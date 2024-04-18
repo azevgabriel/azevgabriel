@@ -15,7 +15,6 @@ Greetings, my name is Gabriel. I am 24 years old, and for several years I have b
 **~** Work: 💼
 
 - 🖥️ I currently work at A Recreativa, performing end-to-end for all web applications.
-- 🎥 Recently, I launched my channel on [Twitch](https://www.twitch.tv/azevgabs); I am programming live and chatting.
 
 **~** Favorite stacks: 💼
 
