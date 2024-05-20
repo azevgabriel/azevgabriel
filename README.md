@@ -12,9 +12,7 @@ Greetings, my name is Gabriel. I am 24 years old, and for several years I have b
 - 📍 I live in Poços de Caldas, Minas Gerais, Brazil.
 - 📧 Contact me at <a href="mailto:azevgabriel@gmail.com">Gmail</a>
 
-**~** Work: 💼
-
-- 🖥️ I currently work at A Recreativa, performing end-to-end for all web applications.
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12174670325&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=8b3232&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=12174670325&redirect=true)
 
 **~** Favorite stacks: 💼
 
@@ -27,5 +25,7 @@ Greetings, my name is Gabriel. I am 24 years old, and for several years I have b
   <img align="center" alt="Jest" height="40" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_jest.svg">
   <img align="center" alt="Amazon" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">   
 </div>
+
+
 
 
