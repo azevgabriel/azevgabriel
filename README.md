@@ -2,7 +2,7 @@
 
 <h4>Hi there, I'm Azv 👋</h4>
 
-Hey! I'm Gabriel — a 26-year-old software developer passionate about web technologies and building smart, well-structured solutions. I hold a Bachelor’s degree in Computer Engineering from IFSULDEMINAS and I’m currently pursuing a postgraduate degree in DevOps, where I focus on CI/CD pipelines, infrastructure as code, and automation practices. My main language is TypeScript, which I value for bringing clarity and type safety to complex JavaScript projects. I enjoy diving deep into the internals of tools and languages to understand how things really work under the hood.
+— a 26-year-old software developer passionate about web technologies and building smart, well-structured solutions. I hold a Bachelor’s degree in Computer Engineering from IFSULDEMINAS and I’m currently pursuing a postgraduate degree in DevOps, where I focus on CI/CD pipelines, infrastructure as code, and automation practices. My main language is TypeScript, which I value for bringing clarity and type safety to complex JavaScript projects. I enjoy diving deep into the internals of tools and languages to understand how things really work under the hood.
 
 <img align="right" width=15% min-width=500px src="tanjiro-transition.gif"/>
 <div align="left">
