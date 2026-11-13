@@ -2,24 +2,22 @@
 
 <h4>Hi there, I'm Azv 👋</h4>
 
-— a 26-year-old software developer passionate about web technologies and building smart, well-structured solutions. I hold a Bachelor’s degree in Computer Engineering from IFSULDEMINAS and I’m currently pursuing a postgraduate degree in DevOps, where I focus on CI/CD pipelines, infrastructure as code, and automation practices. My main language is TypeScript, which I value for bringing clarity and type safety to complex JavaScript projects. I enjoy diving deep into the internals of tools and languages to understand how things really work under the hood.
+— I am a 27-year-old Senior Full-Stack Software Engineer passionate about web technologies and building smart, highly scalable solutions. I hold a Bachelor’s degree in Computer Engineering from IFSULDEMINAS and have a strong interest in DevOps and cloud architecture, focusing on AWS, CI/CD, and automation practices. I specialize in the Node.js and TypeScript ecosystems (React, Nest.js), and I actively integrate GenAI and Agentic Workflows to deliver high-performance products. I enjoy diving deep into the internals of systems to understand how things really work under the hood.
 
 <img align="right" width=15% min-width=500px src="tanjiro-transition.gif"/>
 <div align="left">
 
->  _"I seek inspiration from those who believe the bug in the code is between the chair and the monitor."_
+> _"I seek inspiration from those who believe the bug in the code is between the chair and the monitor."_
 
 - I like web development with a focus on backend quality
 - My personal [website](https://www.azevgabriel.com.br)
-- [Chess player](https://www.chess.com/member/azevgabriel) striving for 1100 ELO in rapid games  
-   - Studying openings, counterplay variations, and improving middle & endgame strategy
-- Poker enthusiast — I enjoy understanding risks, probabilities, and betting patterns
+- [Chess player](https://www.chess.com/member/azevgabriel) striving for 1300 ELO in rapid games
+  - Studying openings, counterplay variations, and improving middle & endgame strategy
 - I live in Poços de Caldas, Minas Gerais, Brazil.
 - Contact me at <a href="mailto:azevgabriel@gmail.com">Gmail</a>
 
 **~** works:
 
-- Building features at [Studio Mia](https://app.studiomia.ai/), a tool that helps teachers create better lesson plans.
 - Freelancing via the organization [UaiCode](https://github.com/Uai-Code).
 
 **~** articles (pt-BR):
@@ -38,7 +36,3 @@
   <img align="center" alt="Jest" height="40" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_jest.svg">
   <img align="center" alt="Amazon" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">   
 </div>
-
-
-
-
