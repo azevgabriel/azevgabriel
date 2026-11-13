@@ -34,5 +34,5 @@
   <img align="center" alt="Expo" height="40" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_expo.svg">
   <img align="center" alt="Prisma" height="40" width="45" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/prisma.svg">
   <img align="center" alt="Jest" height="40" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_jest.svg">
-  <img align="center" alt="Amazon" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">   
+  <img align="center" alt="Amazon" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">   
 </div>
