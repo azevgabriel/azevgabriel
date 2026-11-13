@@ -28,11 +28,22 @@
 **~** stacks:
 
 <div style="display: inline_block">
+  <!-- Linguagem Base -->
   <img align="center" alt="TypeScript" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Nodejs" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
+  
+  <!-- Front-end -->
   <img align="center" alt="ReactJS" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="NextJS" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Expo" height="40" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_expo.svg">
+
+  <!-- Back-end -->
+  <img align="center" alt="Nodejs" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="NestJS" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Prisma" height="40" width="45" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/prisma.svg">
+
+  <!-- Infra & Qualidade -->
+  <img align="center" alt="Docker" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Amazon" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Jest" height="40" width="45" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_jest.svg">
-  <img align="center" alt="Amazon" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">   
 </div>
